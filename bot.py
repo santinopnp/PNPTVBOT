@@ -3,7 +3,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, ContextTypes
 
 # ——— Constantes ———
-TOKEN = "7899263814:AAFfIAxbqwscUUZgEgXcPLCfcH9g53dtpoE"
+TOKEN = "7899263814:AAHSlzGuKt16gOQKI8Kwav1W6Yq6zo582tc"
 ADMIN_ID = 7483956865
 BOLD_IDENTITY_KEY = "LgANsB3U4Qsr1hWWG3dBFXdxPZd4VheS-bvuk2Vzi7E"
 
